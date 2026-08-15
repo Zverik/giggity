@@ -1,5 +1,5 @@
 {
-    "version": 2026081500,
+    "version": 2026081501,
     "url": "https://sotm.osmz.ru/sotm2026.xml",
     "title": "State of the Map 2026",
     "start": "2026-08-28",
@@ -7,10 +7,15 @@
     "timezone": "Europe/Paris",
     "refresh_interval": 7200,
     "metadata": {
+        "icon": "https://2026.stateofthemap.org/img/icons/web-app-manifest-192x192.png",
         "links": [
             {
                 "url": "https://2026.stateofthemap.org/",
                 "title": "Website"
+            },
+            {
+                "url": "https://umap.openstreetmap.fr/fr/map/sotm-2026-paris_1374311",
+                "title": "Map"
             }
         ]
     }
